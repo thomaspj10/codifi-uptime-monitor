@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 455,
-    "timeWeek": 455,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "time": 556,
+    "timeDay": 556,
+    "timeWeek": 556,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://marktplaats.codifi.nl",
     "icon": "https://icons.duckduckgo.com/ip3/marktplaats.codifi.nl.ico",
     "slug": "marktplaats",
-    "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 380,
-    "timeDay": 380,
-    "timeWeek": 380,
-    "timeMonth": 380,
-    "timeYear": 380,
+    "status": "up",
+    "uptime": "2.38%",
+    "uptimeDay": "2.38%",
+    "uptimeWeek": "2.38%",
+    "uptimeMonth": "2.38%",
+    "uptimeYear": "2.38%",
+    "time": 1157,
+    "timeDay": 1157,
+    "timeWeek": 1157,
+    "timeMonth": 1157,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2024-09-06": 3
+      "2024-09-06": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dashboard.codifi.nl",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.codifi.nl.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "0.32%",
-    "uptimeDay": "0.32%",
-    "uptimeWeek": "0.32%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "2.07%",
+    "uptimeDay": "2.07%",
+    "uptimeWeek": "2.07%",
+    "uptimeMonth": "2.07%",
+    "uptimeYear": "2.07%",
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2024-09-06": 3
+      "2024-09-06": 7
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/repository.codifi.nl.ico",
     "slug": "repository",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-09-06": 3
+      "2024-09-06": 7
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://registry.codifi.nl",
     "icon": "https://icons.duckduckgo.com/ip3/registry.codifi.nl.ico",
     "slug": "registry",
-    "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
-    "time": 353,
-    "timeDay": 353,
-    "timeWeek": 353,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "status": "up",
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
+    "time": 513,
+    "timeDay": 513,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-09-06": 3
+      "2024-09-06": 7
     }
   }
 ]
