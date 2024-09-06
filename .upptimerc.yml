@@ -6,7 +6,7 @@ sites:
   - name: Codifi marketing
     url: https://codifi.nl
   - name: Marktplaats
-    url: https://markplaats.codifi.nl
+    url: https://marktplaats.codifi.nl
     headers:
       - "Authorization: Basic Upptime:$basic_auth_password"
   - name: Dashboard
