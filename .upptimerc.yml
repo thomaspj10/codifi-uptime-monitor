@@ -8,19 +8,19 @@ sites:
   - name: Marktplaats
     url: https://marktplaats.codifi.nl
     headers:
-      - "Authorization: Basic Upptime:$basic_auth_password"
+      - "Authorization: Basic $BASIC_AUTH"
   - name: Dashboard
     url: https://dashboard.codifi.nl
     headers:
-      - "Authorization: Basic Upptime:$basic_auth_password"
+      - "Authorization: Basic $BASIC_AUTH"
   - name: Repository
     url: https://repository.codifi.nl
     headers:
-      - "Authorization: Basic Upptime:$basic_auth_password"
+      - "Authorization: Basic $BASIC_AUTH"
   - name: Registry
     url: https://registry.codifi.nl
     headers:
-      - "Authorization: Basic Upptime:$basic_auth_password"
+      - "Authorization: Basic $BASIC_AUTH"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
