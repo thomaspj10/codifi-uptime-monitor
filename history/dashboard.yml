@@ -1,7 +1,7 @@
 url: https://dashboard.codifi.nl
-status: up
-code: 200
-responseTime: 343
-lastUpdated: 2024-10-02T23:10:25.849Z
+status: down
+code: 500
+responseTime: 62
+lastUpdated: 2024-10-03T15:43:47.172Z
 startTime: 2024-09-06T21:17:50.978Z
 generator: Upptime <https://github.com/upptime/upptime>
