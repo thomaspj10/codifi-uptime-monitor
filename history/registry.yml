@@ -1,7 +1,7 @@
 url: https://registry.codifi.nl
-status: down
-code: 530
-responseTime: 57
-lastUpdated: 2025-01-29T23:09:48.384Z
+status: up
+code: 200
+responseTime: 1266
+lastUpdated: 2025-01-30T14:29:17.628Z
 startTime: 2024-09-06T21:17:55.579Z
 generator: Upptime <https://github.com/upptime/upptime>
