@@ -9,10 +9,6 @@ sites:
     url: https://marktplaats.codifi.nl
     headers:
       - "Authorization: Basic $BASIC_AUTH"
-  - name: Dashboard
-    url: https://dashboard.codifi.nl
-    headers:
-      - "Authorization: Basic $BASIC_AUTH"
   - name: Repository
     url: https://repository.codifi.nl
     headers:
