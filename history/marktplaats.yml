@@ -1,7 +1,7 @@
 url: https://marktplaats.codifi.nl
-status: up
-code: 200
-responseTime: 1733
-lastUpdated: 2025-03-05T18:42:55.617Z
+status: down
+code: 502
+responseTime: 1194
+lastUpdated: 2025-03-05T20:34:55.992Z
 startTime: 2024-09-06T21:17:49.224Z
 generator: Upptime <https://github.com/upptime/upptime>
