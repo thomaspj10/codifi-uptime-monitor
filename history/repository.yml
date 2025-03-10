@@ -1,7 +1,7 @@
 url: https://repository.codifi.nl
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2025-03-10T23:10:32.435Z
+status: down
+code: 502
+responseTime: 482
+lastUpdated: 2025-03-10T23:18:07.104Z
 startTime: 2024-09-06T21:17:53.267Z
 generator: Upptime <https://github.com/upptime/upptime>
